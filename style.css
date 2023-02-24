@@ -1,4 +1,6 @@
 /* stylelint-disable font-family-name-quotes */
+@import url('https://fonts.google.com/specimen/Outfit');
+
 body {
   margin: 0;
   padding: 0;
@@ -33,7 +35,7 @@ body {
   width: 225px;
   border-radius: 5%;
   position: relative;
-  bottom: .4rem;
+  bottom: .3rem;
 }
 
 .card #title {
