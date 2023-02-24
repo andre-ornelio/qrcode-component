@@ -39,10 +39,11 @@ body {
 .card #title {
   width: 265px;
   font-weight: 700;
-  font-size: 114%;
+  font-size: 115%;
   position: relative;
   top: 15px;
   line-height: 25px;
+  letter-spacing: -0.5px;
 }
 
 .card #description {
