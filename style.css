@@ -42,6 +42,7 @@ body {
   font-size: 112%;
   position: relative;
   top: 15px;
+  line-height: 25px;
 }
 
 .card #description {
