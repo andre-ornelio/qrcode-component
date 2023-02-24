@@ -37,9 +37,9 @@ body {
 }
 
 .card #title {
-  width: 270px;
+  width: 275px;
   font-weight: 700;
-  font-size: 117%;
+  font-size: 116.5%;
   position: relative;
   top: 15px;
   line-height: 27px;
