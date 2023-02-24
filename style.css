@@ -39,13 +39,13 @@ body {
 .card #title {
   width: 265px;
   font-weight: 700;
-  font-size: 110%;
+  font-size: 112%;
   position: relative;
   top: 15px;
 }
 
 .card #description {
-  width: 235px;
+  width: 245px;
   font-weight: 400;
   font-size: 14px;
   opacity: 0.5;
