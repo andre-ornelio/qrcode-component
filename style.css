@@ -58,6 +58,7 @@ body {
   opacity: 0.5;
   position: relative;
   line-height: 20px;
+  top: 2px;
 }
 
 .attribution { 
