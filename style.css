@@ -43,11 +43,11 @@ body {
   position: relative;
   top: 15px;
   line-height: 27px;
-  word-spacing: 2px;
+  word-spacing: -2px;
 }
 
 .card #title > span {
-  word-spacing: -2px;
+  word-spacing: -6px;
 }
 
 .card #description {
