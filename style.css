@@ -44,6 +44,7 @@ body {
   top: 15px;
   line-height: 27px;
   word-spacing: -2px;
+  color: rgb(0 0 0 / 75%)
 }
 
 .card #title > span {
