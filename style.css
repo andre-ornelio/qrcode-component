@@ -23,15 +23,15 @@ body {
   margin: 5px;
   padding: 15px;
   width: 280px;
-  height: 450px;
+  height: 470px;
   text-align: center;
   align-items: center;
   position: relative;
-  top: 19vh;
+  top: 18.5vh;
 }
 
 .card > img {
-  width: 275px;
+  width: 290px;
   border-radius: 5%;
   position: relative;
 }
@@ -45,7 +45,7 @@ body {
 }
 
 .card #description {
-  width: 200px;
+  width: 230px;
   font-weight: 400;
   font-size: 14px;
   opacity: 0.5;
