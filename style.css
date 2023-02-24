@@ -19,7 +19,7 @@ body {
   box-shadow: 0 4px 15px #555;
   font-family: "Outfit", sans-serif;
   flex-direction: column;
-  border-radius: 2%;
+  border-radius: 2.5%;
   margin: 5px;
   padding: 15px;
   width: 290px;
@@ -32,7 +32,7 @@ body {
 
 .card > img {
   width: 290px;
-  border-radius: 2%;
+  border-radius: 2.5%;
   position: relative;
 }
 
