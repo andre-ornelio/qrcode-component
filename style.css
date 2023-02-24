@@ -1,0 +1,65 @@
+/* stylelint-disable font-family-name-quotes */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: hsl(212deg 45% 89%);
+}
+
+.container {
+  display: grid;
+  justify-items: center;
+  height: 95vh;
+}
+
+.card {
+  display: flex;
+  background-color: white;
+  box-shadow: 15 15 50px rgb(0 0 0 / 20%);
+  font-family: "Outfit", sans-serif;
+  flex-direction: column;
+  font-size: 15px;
+  border-radius: 5%;
+  margin: 5px;
+  padding: 15px;
+  width: 220px;
+  text-align: center;
+  align-items: center;
+  position: relative;
+  top: 15vh;
+  height: 21.5rem;
+}
+
+.card > img {
+  width: 225px;
+  border-radius: 5%;
+  position: relative;
+  bottom: .4rem;
+}
+
+.card #title {
+  width: 185px;
+  font-weight: 700;
+  position: relative;
+  bottom: 2px;
+}
+
+.card #description {
+  width: 195px;
+  font-weight: 400;
+  font-size: 12px;
+  opacity: 0.5;
+  position: relative;
+  bottom: 15px;
+}
+
+.attribution { 
+  font-size: 11px; text-align: center;
+}
+
+.attribution a { 
+  color: hsl(228deg 45% 44%)
+}
+
+footer {
+  font-size: 15
+}
