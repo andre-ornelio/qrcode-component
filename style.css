@@ -27,11 +27,11 @@ body {
   text-align: center;
   align-items: center;
   position: relative;
-  top: 16vh;
+  top: 18vh;
 }
 
 .card > img {
-  width: 300px;
+  width: 280px;
   border-radius: 5%;
   position: relative;
 }
