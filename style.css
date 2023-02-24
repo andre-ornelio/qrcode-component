@@ -16,7 +16,7 @@ body {
 .card {
   display: flex;
   background-color: white;
-  box-shadow: 0 20px 15px hsl(213deg 29% 82%);
+  box-shadow: 0 20px 15px hsl(211deg 31% 85%);
   font-family: "Outfit", sans-serif;
   flex-direction: column;
   border-radius: 5%;
