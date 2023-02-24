@@ -16,7 +16,7 @@ body {
 .card {
   display: flex;
   background-color: white;
-  box-shadow: 0 10px 15px hsl(212deg 45% 79%);
+  box-shadow: 0 10px 15px hsl(212deg 45% 86%);
   font-family: "Outfit", sans-serif;
   flex-direction: column;
   border-radius: 4%;
@@ -46,7 +46,7 @@ body {
 }
 
 .card #description {
-  width: 245px;
+  width: 250px;
   font-weight: 400;
   font-size: 14px;
   opacity: 0.5;
